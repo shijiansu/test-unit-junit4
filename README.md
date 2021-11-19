@@ -1,14 +1,6 @@
-# test-unit-junit4
-
 ![](https://img.shields.io/badge/language-java-blue)
 ![](https://img.shields.io/badge/technology-junit4-blue)
 ![](https://img.shields.io/badge/development%20year-2019-orange)
-
-![](https://img.shields.io/github/languages/top/shijiansu/test-unit-junit4)
-![](https://img.shields.io/github/languages/count/shijiansu/test-unit-junit4)
-![](https://img.shields.io/github/languages/code-size/shijiansu/test-unit-junit4)
-![](https://img.shields.io/github/repo-size/shijiansu/test-unit-junit4)
-![](https://img.shields.io/github/last-commit/shijiansu/test-unit-junit4?color=red)
 
 ## Outline
 

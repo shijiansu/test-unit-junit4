@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>su.shijian</groupId>
-  <artifactId>junit4-first-try</artifactId>
+  <artifactId>junit4-2019</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
@@ -24,12 +24,6 @@
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
       <version>4.13.1</version>
-      <scope>test</scope>
-    </dependency>
-    <dependency>
-      <groupId>pl.pragmatists</groupId>
-      <artifactId>JUnitParams</artifactId>
-      <version>1.1.1</version>
       <scope>test</scope>
     </dependency>
     <dependency>
@@ -91,15 +85,6 @@
           <excludes>
             <exclude>**/*ManualTest.java</exclude>
           </excludes>
-        </configuration>
-      </plugin>
-      <plugin>
-        <groupId>org.apache.maven.plugins</groupId>
-        <artifactId>maven-surefire-report-plugin</artifactId>
-        <version>3.0.0-M5</version>
-        <!-- avoid "Unable to locate Test Source XRef to link to - DISABLED" warning -->
-        <configuration>
-          <linkXRef>false</linkXRef>
         </configuration>
       </plugin>
     </plugins>
